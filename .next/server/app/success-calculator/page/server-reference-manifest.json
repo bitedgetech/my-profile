@@ -1,0 +1,16 @@
+{
+  "node": {
+    "6035dd0bfd11cb3e1355fde6346f9d475c3d79d9d9": {
+      "workers": {
+        "app/success-calculator/page": {
+          "moduleId": "[project]/.next-internal/server/app/success-calculator/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/success-calculator/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

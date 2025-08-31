@@ -1,0 +1,27 @@
+{
+  "node": {
+    "6035dd0bfd11cb3e1355fde6346f9d475c3d79d9d9": {
+      "workers": {
+        "app/timeline-generator/page": {
+          "moduleId": "[project]/.next-internal/server/app/timeline-generator/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/project-timeline-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/timeline-generator/page": "action-browser"
+      }
+    },
+    "40a3d393922d774767f3f90781b2f4e9dbf6564b47": {
+      "workers": {
+        "app/timeline-generator/page": {
+          "moduleId": "[project]/.next-internal/server/app/timeline-generator/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/project-timeline-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/timeline-generator/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

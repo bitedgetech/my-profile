@@ -1,0 +1,38 @@
+{
+  "node": {
+    "404747b9b6f28c89cd9daed23f88a4dcbfc45cb834": {
+      "workers": {
+        "app/grant-program/page": {
+          "moduleId": "[project]/.next-internal/server/app/grant-program/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/assistant-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/app/grant-program/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/grant-program/page": "action-browser"
+      }
+    },
+    "6035dd0bfd11cb3e1355fde6346f9d475c3d79d9d9": {
+      "workers": {
+        "app/grant-program/page": {
+          "moduleId": "[project]/.next-internal/server/app/grant-program/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/assistant-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/app/grant-program/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/grant-program/page": "action-browser"
+      }
+    },
+    "608a010c7a4190004170514c72c8c3d696b61039ff": {
+      "workers": {
+        "app/grant-program/page": {
+          "moduleId": "[project]/.next-internal/server/app/grant-program/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/assistant-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/app/grant-program/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/grant-program/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

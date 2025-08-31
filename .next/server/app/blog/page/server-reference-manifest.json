@@ -1,0 +1,27 @@
+{
+  "node": {
+    "404747b9b6f28c89cd9daed23f88a4dcbfc45cb834": {
+      "workers": {
+        "app/blog/page": {
+          "moduleId": "[project]/.next-internal/server/app/blog/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/assistant-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/blog/page": "action-browser"
+      }
+    },
+    "6035dd0bfd11cb3e1355fde6346f9d475c3d79d9d9": {
+      "workers": {
+        "app/blog/page": {
+          "moduleId": "[project]/.next-internal/server/app/blog/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/assistant-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/app/newsletter/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/blog/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
